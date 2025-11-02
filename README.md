@@ -1,1 +1,1 @@
-# netflix-gpt
+NETFLIX GPT
